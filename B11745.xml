@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fatall nuptiall: or Mournefull marriage Relating, the heavy and lamentable accident lately occurring, by the drowning of 47. persons, and some of those of especiall quality, in the water of Windermere, in the North. October 19: 1635.</title>
+            <author>Brathwaite, Richard, 1588?-1673.</author>
+         </titleStmt>
+         <extent>Approx. 29KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11745</idno><idno type="EEBO-CITATION">99855992</idno>
+  <idno type="VID">177807</idno>
+  <idno type="EEBO-PROQUEST">2240888081</idno>
+  <idno type="STC">STC 3567.5</idno>
+  <idno type="STC">ESTC S120799</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855992e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1212:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fatall nuptiall: or Mournefull marriage Relating, the heavy and lamentable accident lately occurring, by the drowning of 47. persons, and some of those of especiall quality, in the water of Windermere, in the North. October 19: 1635.</title>
+                  <author>Brathwaite, Richard, 1588?-1673.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Felix Kyngston, and are to be sold by Robert Bostocke, at the Kings head in Pauls Churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Richard Brathwait.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-B.</note>
+                  <note>Formerly STC 18749.</note>
+                  <note>Identified as STC 18749 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Shipwrecks --  Early works to 1800.</term>
+               <term type="topical_term">Shipwrecks --  England --  Windermere, Lake --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177807:1"/>
+            <pb facs="tcp:177807:2"/>
+            <pb facs="tcp:177807:2"/>
+            <p>THE FATALL NVPTIALL: OR, <hi>MOƲRNEFƲLL</hi> MARRIAGE.</p>
+            <p>Relating, <hi>The heavy and lamentable</hi> Accident lately occurring, by the drowning of 47. persons, and some of those of especiall quality, in the water of <hi>Windermere,</hi> in the NORTH. <hi>October</hi> 19: 1635.</p>
+            <q>—Nova piscibus urna parata est.</q>
+            <p>LONDON, Imprinted by <hi>Felix Kyngston,</hi> and are to be sold by <hi>Robert Bostocke,</hi> at the Kings head in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard. 1636.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:177807:3"/>
+            <pb facs="tcp:177807:3"/>
+            <head>
+               <figure>
+                  <figDesc>a skull with wings</figDesc>
+                  <head>SPES ADDIDIT ALAS.</head>
+               </figure> A PREAMBLE, OR INTRODUCTION to this Funerall POEME.</head>
+            <p>
+               <seg rend="decorInit">F</seg>OR the quality of griefe, none knowes it, but hee who hath ex<g ref="char:EOLhyphen"/>perimentally and personally felt it. That Place, which hath hitherto beene secured from the least perill, you sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll now see personated a spe<g ref="char:EOLhyphen"/>ctacle of Sorrow: where those, who vowed in a Sacred and Christian manner, their vowes to <hi>Hymen,</hi> the Soueraigne of Nuptialls, are now with <hi>Tethis</hi> to close in wat'ry Fu<g ref="char:EOLhyphen"/>neralls. The occasion of these sad Obits proceeded from a Marriage and a Market day, which begot to the Atten<g ref="char:EOLhyphen"/>dants a mournefull night; yet from that Night (such was their assured expectance, and our undoubted affiance) a happy day. The place, where these drenched Soules were
+<pb facs="tcp:177807:4"/> to take Boate, was that famous and renowned Mere of <hi>Windermere;</hi> a Mere no lesse eminent and genero<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sly knowne for her Sole-breeding, and peculiar kinde of fishes (commonly called <hi>Chares</hi>) as for those windy and laby<g ref="char:EOLhyphen"/>rinthian mazes, with those curiously shaded, beaute<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sly tufted, naturally fortifide, and impregnably seated Ilands in every part of the Mere interveined. To relate the severall w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndings of it, or more historically to describe it, were fruitles, being already explained by a genuine and learned Relater.<note place="margin">Cambd. in Brit.</note> To divert then from the Place, to the sad occasion of this Action, thus I proceed.</p>
+            <p>
+               <hi>Windermere,</hi> or <hi>Winandermere,</hi> streaming, or rather staying in a continuate Tract or Channell, without any vi<g ref="char:EOLhyphen"/>sible or apparent Current, and dividing the Counties of <hi>Westmerland</hi> and <hi>Lancashire,</hi> hath ever constantly kept a Boat for Passengers; especially those Inhabitants as re<g ref="char:EOLhyphen"/>maine or reside in the Barronry of <hi>Kendall,</hi> (a place to her honour, antiently famous for Commerce and industrious Manufacture) a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all others, who may have occasion to ad<g ref="char:EOLhyphen"/>dresse their course by that passage, to the Market of <hi>Haukeside,</hi>
+               <note place="margin">The Charter of which Market was procured by that industri<g ref="char:EOLhyphen"/>ous Agen<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for his Coun<g ref="char:EOLhyphen"/>trey, M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>All<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Ni<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>holso<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> or o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her places adjoyning. To this Boat, upon a <hi>nuptiall</hi> but <hi>fatall</hi> occasion, sundry Passengers, and these all Inhabitants within the Barronry of <hi>Kendall,</hi> (a Bur<g ref="char:EOLhyphen"/>roug<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as I formerly observed, highly eminent, by having such neare relation and generall correspondence with most places of trade or trafficke in this kingdome) repaired; ho<g ref="char:EOLhyphen"/>ping with a safe and secure gale to arrive, where no perill
+<pb facs="tcp:177807:4"/> had ever yet approach'd. The Boat they enter'd, securely confident, with <hi>47.</hi> in number, besides other carriages and horses, which (together with the roughnes of the water, &amp; extremity of weather) occasioned this inevitable dange<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>Lanch'd had these scarcely to the medth of the water, being scantly a mile broad, but the Boat, either through the pressure and weight which surcharg'd her, or some violent and impetuous windes and waves that surpriz'd her, with all her people, became drench'd in the depths.<note place="margin">Undae sunt ossibus urnae.</note> No succour, no reliefe afforded, for Gods definite Will had so decreed: So as, not one person of all the number was saved: Amongst which, the Brides Mother, and her Brother in this liquid regiment, equally perished.</p>
+            <p>To aggravate the quality of this Accident, I need not; an imaginary representment of sorrow is sufficient to it selfe. Onely, let me reare before your eyes this <hi>Theatre;</hi> on which you are not to expect ought from this Tyringhouse of heavines, but Scenes of passion and disconsolate anguish.</p>
+            <p>Many of these left Wives without Husbands, other<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Husbands without Wives; most of these, Children without Fathers or Mothers. Estates they had, but indisposed; because in such a moment of time prevented, as wherein they stood most secured, soonest abridged.</p>
+            <p>What a <hi>fatall Nuptiall</hi> was this? when those Nup<g ref="char:EOLhyphen"/>tiall ribbons and sprigges of Rosemary, which were gi<g ref="char:EOLhyphen"/>ven as favours for a Nuptiall, became Rosemary sprigges to adorne their Funerall?</p>
+            <pb facs="tcp:177807:5"/>
+            <p>What an Embleme of Mortality may man see in him<g ref="char:EOLhyphen"/>selfe, in this image of himselfe? A Navigator is not to be secure in <hi>three inches,</hi> nor man of his life, which is but a <hi>spanne.</hi> How secure were these in their temperate mirth; and with what a calme Convoy they expected to arrive at their Port? If we should consider those billowes, where<g ref="char:EOLhyphen"/>with we are dayly and hourely encountred: those perillous passages, whereto we are exposed: with the difficulty of the Haven, at which we are to be landed, wee would con<g ref="char:EOLhyphen"/>stantly tremble, and stand in feare, least every <hi>wave,</hi> every <hi>worldly care,</hi> should endanger our shipwracke.</p>
+            <p>What loving associates were these to <hi>Hymen?</hi> what <hi>Conjugall consorts</hi> to a festive <hi>Nuptiall?</hi> yet see the cloze of their marriage melody, drowne it selfe in a wat'ry <hi>Lachrymae!</hi> What then on Earth is heere constant? or where in ought may wee be confident? A merry Evening makes an heavy Morning: and a glad going out, a sad returning. Sad to their friends, but chearefull to their dearest soules; which have call'd from the <hi>Depths,</hi> and are <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssuredly heard.</p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s this might bee their proper impreze:</hi> "Mergimur immersi, ra<g ref="char:EOLhyphen"/>pida sub gur<g ref="char:EOLhyphen"/>gite tui<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: "Per mare, per terras, Semita recta bonis.</note>It is a good Prayer, to deliver us from <hi>sudden Death;</hi> yet there is no sudden Death to them that die well. Gods mercy is betwixt the <hi>bridge</hi> and the <hi>brinke;</hi> Nor are wee to despaire of their helpe, who in God repose their sole hope. <hi>Abyssus abyssum invocat:</hi> These in the depth of their misery, call'd upon the depth of Gods mercy: and though they could not reach to land with the hand of their
+<pb facs="tcp:177807:5"/> body; they reach'd with their hand of faith to the Haven of Glory. As no man values the place of his <hi>Birth,</hi> so is hee not to disvalue the place of his <hi>Death.</hi> Wee have a sacred President; to whom neither place of <hi>Birth</hi> nor <hi>Death</hi> be<g ref="char:EOLhyphen"/>came an Ornament.</p>
+            <p>Wee are heere to passe the <hi>waters</hi> of <hi>tribulation;</hi> our Barkes are weake, our passage dangerous: Shelves wee have full of perill; <hi>presumption</hi> to transport us, <hi>despaire</hi> to deject us. If wee surcharge our <hi>vessell,</hi> what may wee expect but drowning? if wee ballase it not enough, what may wee looke for but floating? Wee have an <hi>Anchor;</hi> it is our Saviour: wee cannot faile, if through him wee suffer. Hee, who can command the Windes and the Sea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, will wast us o're these troublesome Seas, and conduct us to the Port of rest.</p>
+            <p>It is true, that while wee are heere imbarked, there is no security; Marchant venturers wee are all, hazarding our state, stocke and store in crazy and leeking <hi>vessels.</hi> Wee hicker with waves, stormes and tempests: even our owne dissorting passions; which like so many billowes, mu<g ref="char:EOLhyphen"/>tine in us, and threaten shipwracke.<note place="margin">Hor.</note>
+               <hi>Neptunum procul à terra;</hi> wee eye, and eying, sigh for our Haven.</p>
+            <p>Poore Sea-fairing Soules, what a doe wee make with our distempered Motions, (which to use the w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds of that Divine Father) swarme like so many <hi>Bees</hi> about us;<note place="margin">Basil.</note> and while they sting us, wee hold them deare unto us!</p>
+            <pb facs="tcp:177807:6"/>
+            <p>Invironed wee are with danger on the Maine; and pe<g ref="char:EOLhyphen"/>rillou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sands and Shelv's oppose us in our landing. Though the Course of our Navigation be passing short; the continu<g ref="char:EOLhyphen"/>ed Current of our dangerous passage appeares long.</p>
+            <p>We account him foolishly merry, and insensible of perill, who, when the Windes rage, the Waves rise, &amp; nothing but feare and horrour become Objects to the weakned Ship, carrouseth and drinkes healths to the Winde, as One se<g ref="char:EOLhyphen"/>cure of his approaching sate. And what lesse doe wee, when in these weake Barkes of our Bodies, wee expose our selves to all sensuall pleasures, as if wee were a shore and secure from danger, when wee are surrounded with perill, and for<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e divided from our Harbour?</p>
+            <p>The Philosophers question impli'd a Divine Morall: <hi>Quanta spissitudo navium?</hi>
+               <note place="margin">Anach.</note>
+               <hi>4. digitorum.</hi> And that Sacred Light of the <hi>Orientall Church</hi> might seeme to answere this,<note place="margin">Aug.</note> no lesse positively then pithily: <hi>Tres cu<g ref="char:EOLhyphen"/>biti terrae te expectant.</hi>
+            </p>
+            <p>
+               <note place="margin">Arist.</note>That surviving glory of <hi>Stagyrus</hi> reports, that about the River <hi>Hypanis,</hi> which runneth through a part of <hi>Europe</hi> into the Sea <hi>Pontus,</hi> are bred certaine Beastes which live but one day; and surely, if wee should compare this straite confined limit or period of our age with im<g ref="char:EOLhyphen"/>mortality, (the <hi>Soules sole-harbour</hi> after her disbarking from this Sea of misery) we shall be found in regard of our frailty every way as transi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, as these day-dying Beasts.</p>
+            <p>Death is such a discursive Serjeant, and so serious
+<pb facs="tcp:177807:6"/> in the discharge of his Errand, as there is no place of pri<g ref="char:EOLhyphen"/>viledge to exclude him, or rescue he party arrested by him. Hee ha's a <hi>Mace</hi> for the <hi>Sea,</hi> as well as <hi>Land.</hi> Which may bee instanced in no patterne more clearely, no Object more truely, than in this <hi>Tragicke</hi> Scene of Sor<g ref="char:EOLhyphen"/>row, which wee have now in action: Where, of <hi>47</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut wee have formerly related, not one secured, not one from Death rescued: And this happened the <hi>19.</hi> of October.</p>
+            <p>But as waves follow waves, so it oftimes falleth in the progresse of woes: for no l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse remarkeable is it, that upon the <hi>6.</hi> of November, a <hi>Graves end Barge</hi> was by report cast away, seconding thi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> former very nearely, if not wholly, in number: but the apparancy of their danger begot this report (as wee have since heard) without any other actuall disaster.</p>
+            <p>The use of these should necessarily conduce to our selv's: on <hi>Water</hi> and <hi>Land</hi> to recommend <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in our passage and conduct to his Sacred direction and protection, by whom wee <hi>breath and have our being. In aquis &amp; terris <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Deo meditari,</hi>
+               <note place="margin">Malum est mo<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in nau<g ref="char:EOLhyphen"/>fragio, &amp; bo<g ref="char:EOLhyphen"/>num est mori febre Aug. in Psal. c. 48.</note>
+               <hi>&amp; coelesti ejus custodiae no<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-ipsos com<g ref="char:EOLhyphen"/>mendare, est neque ab aquis nec à terris, motu vel metu discriminis imminentis, periclitari.</hi> And with<g ref="char:EOLhyphen"/>all, to reteine a charitable opinion of such, as by thes<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> premature and adventitious ends, are translated from us. <hi>Pauli naufragium animae salus fuit:</hi> Let us apply this, though in another sense addressed, to these hopefull
+<pb facs="tcp:177807:7"/> Soules now departed. Hee, who is the LORD of the <hi>Depths,</hi> can extend his unbounded mercy to the <hi>Depths;</hi> and put an hooke in the nose-<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrills of that <hi>Leviathan,</hi> who raigneth, ruleth and rageth in the <hi>Depths.</hi>
+            </p>
+            <p>This <hi>Preamble</hi> hath enlarged it selfe to so extensive a measure, as it may seeme to some, to resemble a <hi>Mindian</hi> Structure: but as <hi>arguments</hi> give light to <hi>Sub<g ref="char:EOLhyphen"/>jects;</hi> so <hi>Preambles,</hi> by way of <hi>Introducti<g ref="char:EOLhyphen"/>on,</hi> have ever given life to refinedst <hi>Poems.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177807:7"/>
+            <head>
+               <figure>
+                  <figDesc>sunburst surrounded by cloud and containing a Hebrew word in the centre</figDesc>
+               </figure>
+               <hi>THE</hi> FATALL NVPTIALL; <hi>OR,</hi> MOVRNEFVLL MARRIAGE.</head>
+            <div type="poem">
+               <head>Poeme.</head>
+               <lg>
+                  <l>
+                     <hi>
+                        <seg rend="decorInit">H</seg>Ymen,</hi> put out thy lights; thy selfe confound</l>
+                  <l>With griefe, to see thy teare-swolne cōsorts drownd,</l>
+                  <l>Thy late Attendants: See of forty seven</l>
+                  <l>None rescued from death, but wholly driven</l>
+                  <l>From hope, helpe, harbour! recollect it thus,</l>
+                  <l>And joyne in mournefull Elegies with us.</l>
+                  <pb facs="tcp:177807:8"/>
+                  <l>Husbands of Wives, Wives of their Husbands rest,</l>
+                  <l>Parents of Babes, Babes of their Parents left.</l>
+                  <l>Heere Widdow's tears, and there poor Orphans cryes,</l>
+                  <l>These fill the Cesterns of distilling eyes</l>
+                  <l>With confluence of teares. What a sad Night</l>
+                  <l>Hath damp't the beauty of a Nuptiall light</l>
+                  <l>With universall sorrow?— Pray thee stay,</l>
+                  <l>And sayle along with me in this same way,</l>
+                  <l>This wat'ry Region, where the curled waves</l>
+                  <l>Afford us teares, and to their bodies graves:</l>
+                  <l>—See, see the leeking Vessell how it strives</l>
+                  <l>And combats with the waves, to save their lives!</l>
+                  <l>It sighs and seekes for Land, but press'd with weather,</l>
+                  <l>And her surcharged burden both together,</l>
+                  <pb facs="tcp:177807:8"/>
+                  <l>While surging billowes mount above the brinke,</l>
+                  <l>Shee's forc'd to yeeld, and with her fraught to sinke.</l>
+                  <l>To sinke! O silence that perplexing word,</l>
+                  <l>It will a Deluge of new griefe afford</l>
+                  <l>To the relenting <hi>Reader,</hi> who with teare<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Will rinse each comme and period that he heares</l>
+                  <l>And wooe th'inraged waves, and chide them too,</l>
+                  <l>When he in milder tearmes shall cease to woo;</l>
+                  <l>And in such home bred Dialect as this,</l>
+                  <l>Taxe them and tell them, that they did amisse.</l>
+               </lg>
+               <lg>
+                  <l>O should you now see how Child clings on Mother,<note place="margin">☜</note>
+                  </l>
+                  <l>Husband on Wife, Wife Husband, one on other,</l>
+                  <l>Grasping the yeelding Streames, who in remorce</l>
+                  <l>With wat'ry veils shroud their inchanneld coarse;</l>
+                  <pb facs="tcp:177807:9"/>
+                  <l>Should you conceit these Objects, you with me</l>
+                  <l>Would cloze in one-united <hi>Lachrymae.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O <hi>WINDERMERE,</hi> who art renown'd afarre</l>
+                  <l>For thy sole breeding there unvalued <hi>Charre,</hi>
+                  </l>
+                  <l>And with thy spatious channell doest divide</l>
+                  <l>Two antient Counties seated on each side;</l>
+                  <l>
+                     <note place="margin">☞</note>May thy fresh waters salt and brackish turne,</l>
+                  <l>And in their chang'd condition henceforth mourne;</l>
+                  <l>May those distilling conduits of thine,</l>
+                  <l>Loosing their native sweetnesse flow with brine:</l>
+                  <l>Tuning each accent of this accident</l>
+                  <l>To Swanlike Odes of dying dreriment.</l>
+                  <l>What did incense thee thus? what furious fate?</l>
+                  <l>
+                     <hi>Tethis</hi> and <hi>Hymen</hi> were they at debate?</l>
+                  <pb facs="tcp:177807:9"/>
+                  <l>Did any impious one this shipwracke cause,</l>
+                  <l>Some high Delinquent to Heav'ns sacred Lawes,</l>
+                  <l>Whose deepe dyde sinne did so the State infest</l>
+                  <l>As it became a Scourge unto the rest</l>
+                  <l>That were his haplesse <hi>Consorts?</hi> or some wretch,</l>
+                  <l>Some hideous <hi>Hagge,</hi> or <hi>late-reprived</hi> Witch</l>
+                  <l>Sprung from those desart Concaves, forlorne Cells,</l>
+                  <l>Raising these stormes with their infernall Spells?</l>
+                  <l>No; No; nor this, nor that, nor any these</l>
+                  <l>Gave life to those expiring miseries.</l>
+                  <l>It was that fixt decree, to which 'tis fit</l>
+                  <l>That wee who are his Creatures should submit.</l>
+               </lg>
+               <lg>
+                  <l>The sacred Scriptures they will plainly tell</l>
+                  <l>How those, on whom the Tower of <hi>Shilo</hi> fell,</l>
+                  <pb facs="tcp:177807:10"/>
+                  <l>Were not the greatest sinners; Nor ought we</l>
+                  <l>To judge, but by the rule of Charitie</l>
+                  <l>To measure all our Censures: for who ar't,</l>
+                  <l>That liv'st so free from act, so pure in hart,</l>
+                  <l>Who canst in judgement with th' Almighty stand,</l>
+                  <l>Or prove good weight when ballanc'd by his hand?</l>
+                  <l>If he doe spare then, 'tis his mercy to us,</l>
+                  <l>And if hee scourge, hee doth but justice doe us.</l>
+               </lg>
+               <lg>
+                  <l>But let me now divert my dolefull Scene,</l>
+                  <l>And pencyle these who now have drowned bene,</l>
+                  <l>In their owne native feature! "These were such</l>
+                  <l>Who, to relieve their Meniey, labour'd much</l>
+                  <l>In their industrious Wool-worke; justly fam'd,</l>
+                  <l>And for their Manuall labour <hi>Sheare-men</hi> nam'd.</l>
+                  <pb facs="tcp:177807:10"/>
+                  <l>An usefull mystery! which though it make</l>
+                  <l>Course cloaths, and such as ne're did <hi>Alnage</hi> take,</l>
+                  <l>Yet 'tis commodious to the Common-weale,</l>
+                  <l>And fit for Sale, although unfit for Seale.</l>
+                  <l>For if th' poore work-man scarcely can supply</l>
+                  <l>With late and earely toile his Family</l>
+                  <l>Now when his Trading is exempt and freed,</l>
+                  <l>In paying <hi>Alnage</hi> how should hee succeede?</l>
+                  <l>But Heav'ns be blest for our dread Soveraigne,</l>
+                  <l>Who cheeres with freedome such an honest gaine,</l>
+               </lg>
+               <lg>
+                  <l>Most then of these wract Passengers were such</l>
+                  <l>Whom never yet ambition did tutch,</l>
+                  <l>Grinding oppression, griping avarice,</l>
+                  <l>"Conscience their praise, and competence their prize,</l>
+                  <pb facs="tcp:177807:11"/>
+                  <l>Much comfort (sure) crowns such wheres'ere they dye,</l>
+                  <l>Though drencht below, their thoughts are fixt on hye,</l>
+               </lg>
+               <lg>
+                  <l>But amongst these, both <hi>love</hi> and <hi>blood</hi> doe urge</l>
+                  <l>An higher straine of passion for my<note n="*" place="margin">Mr. <hi>George Wilson,</hi> At<g ref="char:EOLhyphen"/>turney in the Common Law: 'one of pregnant conceit, and sincere in the course of his practise.</note>
+                     <hi>GEORGE.</hi>
+                  </l>
+                  <l>Of pregnant ripe conceit, firme to his friends,</l>
+                  <l>And ne're soak't Clients purse with endlesse ends;</l>
+                  <l>Young, yet well-read in houres; fixing his love</l>
+                  <l>On <hi>Lawes</hi> Divine and on the <hi>Land</hi> above.</l>
+                  <l>Such dispositions make a good <hi>Atturney,</hi>
+                  </l>
+                  <l>And wing his passage for an heav'nly journey:</l>
+                  <l>Where hee <hi>this see</hi> may for his labour erne,</l>
+                  <l>Peacefull Eternity without a <hi>Terme.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">☞</note>A just weeke after, and same houre oth' day,</l>
+                  <l>His Corpes were found, that hee was throwne away,</l>
+                  <pb facs="tcp:177807:11"/>
+                  <l>Untouch't and undisfigur'd; to imply</l>
+                  <l>Mans face i'th <hi>Depths</hi> reteines a Majesty.</l>
+               </lg>
+               <lg>
+                  <l>Next Him, those nursing fosters of my Three,</l>
+                  <l>Three litle ones, whom they so carefullie</l>
+                  <l>Tender'd, exact of me their funerall teares,</l>
+                  <l>With such a Monument as <hi>Vertue</hi> reares</l>
+                  <l>On her true-meaning followers: for to show</l>
+                  <l>How their industrious Master and these two</l>
+                  <l>Exprest their love and zeale to me and mine,</l>
+                  <l>Would aske a lasting-living-loving-line:</l>
+                  <l>And Gratitude keepes somewhat to requite;</l>
+                  <l>"To <hi>Him</hi> my love, to <hi>Them</hi> my last good-night.</l>
+                  <l>Yet recollect those latest words She said,</l>
+                  <l>When shee that fatall vessell entered,</l>
+                  <pb facs="tcp:177807:12"/>
+                  <l>While thrice she lanched forward to the Maine,</l>
+                  <l>Thrice she step'd in, and thrice retyr'd againe,</l>
+                  <l>As one divining what would after fall,</l>
+                  <l>With trickling teares thus on the Oares did call;</l>
+               </lg>
+               <lg>
+                  <l>Oh stay thy Boat, secure me and my Mate!</l>
+                  <l>"One may foresee, but not prevent their fate.</l>
+               </lg>
+               <lg>
+                  <l>Next these, His losse, who at my Table fed,</l>
+                  <l>And as one of mine owne, was sometimes bred,</l>
+                  <l>I mone; One may their duty farre forgit,</l>
+                  <l>Yet God forbid, wee should not this remit,</l>
+                  <l>As wee hope for remission: Hee is dead,</l>
+                  <l>And with him my distasts are buried.</l>
+                  <l>To wast him o're (no doubt) it did Heav'ns please,</l>
+                  <l>From th' waters of <hi>Contention</hi> unto <hi>Peace.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177807:12"/>
+                  <l>For th' rest, I knew them onely by report,</l>
+                  <l>Of honest fame, though of obscurer sort.</l>
+                  <l>And these with those I confidently trust</l>
+                  <l>Are now enrowl'd ith' number of the just.</l>
+               </lg>
+               <lg>
+                  <l>Now to our selves let something be applide,</l>
+                  <l>And then these papers shall be laid aside.</l>
+                  <l>"I'st so, that wee in hourely danger stand</l>
+                  <l>Whether wee saile by Sea, or goe by Land?</l>
+                  <l>"That wee to th' World but one entrance have,</l>
+                  <l>But thousand meanes of passage to our grave?</l>
+                  <l>"That all our wayes are hedg'd about with feare,</l>
+                  <l>While wee are Pilgrims in this Desart heere?</l>
+                  <l>"That none shall be exempted, but must goe</l>
+                  <l>Unto the place where they'r confined to?</l>
+                  <pb facs="tcp:177807:13"/>
+                  <l>"And that the <hi>wise</hi> shall no more fruit receave</l>
+                  <l>Of all his Labours, then the <hi>foole</hi> shall have?</l>
+                  <l>"And that their end's alike, for both shall die</l>
+                  <l>To prove them Cöheirs of Mortality?</l>
+                  <l>"For th' politick <hi>Hun</hi> must yeeld to swelling <hi>Humber,</hi>
+                  </l>
+                  <l>As well as th' least of his inferiour number;</l>
+                  <l>"And <hi>Archie</hi> that rich foole, when hee least dreames,</l>
+                  <l>For purchast lands, must be possest of streames:</l>
+                  <l>"What can wee practice, project or devise,</l>
+                  <l>When ther's no priviledge for Foole nor Wise?</l>
+               </lg>
+               <lg>
+                  <l>Let's like wise Marchants then, make it our care</l>
+                  <l>To looke unto our <hi>Faith,</hi> our <hi>Fraught,</hi> our <hi>Fare;</hi>
+                  </l>
+                  <l>Like Prudent Pilots, on our guard let's stand,</l>
+                  <l>That with safe Prize wee may returne to Land.</l>
+                  <pb facs="tcp:177807:13"/>
+                  <l>For ev'n me thinkes, before they yeeld to Fate,</l>
+                  <l>Their case they seeme thus to expostulate.</l>
+               </lg>
+               <lg>
+                  <l>Spare me, insulting waves, the <hi>Father</hi> cryes,</l>
+                  <l>Take pitty of my poore parentall eyes,</l>
+                  <l>In me yee shall drowne many; for my life</l>
+                  <l>Supports a Family, Children, and Wife.</l>
+                  <l>These perish if I fall; then pitty take</l>
+                  <l>If not for me, yet for mine Infants sake.</l>
+                  <l>I have industrious beene, and given reliefe</l>
+                  <l>Out of my little store, to ease the griefe</l>
+                  <l>Of hungry Soules; Nor doe I boast of this,</l>
+                  <l>For Heav'ns you know, I've done too much amisse:</l>
+                  <l>Nor in those works of mercy that were wrought,</l>
+                  <l>Have I perform'd my duty as I ought.</l>
+                  <pb facs="tcp:177807:14"/>
+                  <l>Give me some longer respite, that I may</l>
+                  <l>Redeeme the time wherein I went astray.</l>
+                  <l>Thou who command'st the winds and waves, and went</l>
+                  <l>Upon the waters, calme this Element;</l>
+                  <l>Steere our weake Barke, for it is in thine hand,</l>
+                  <l>To still this Storme, and bring us safe a land:</l>
+                  <l>But let not our will but thy Will be done;</l>
+                  <l>And as hee ends, another streight begun.</l>
+               </lg>
+               <lg>
+                  <l>I am a <hi>Mother,</hi> O deliver mee</l>
+                  <l>From these inclosing dangers which I see;</l>
+                  <l>A tender Infant hangs upon my brest,</l>
+                  <l>And onely in my bosome takes sweet rest;</l>
+                  <l>How will it cry, if it his mother lacke!</l>
+                  <l>Then for the Babes sake shield me from this wracke.</l>
+                  <pb facs="tcp:177807:14"/>
+                  <l>If shuddring horrour now surprize mine heart,</l>
+                  <l>Oh what an anguish will it be to part</l>
+                  <l>A Mother from the fruit of her owne wombe,</l>
+                  <l>And in the wat'ry depths, to have a Tombe?</l>
+                  <l>Excuse my feare, deare Lord, it is not common</l>
+                  <l>For virile Spirits to be in a Woman.</l>
+                  <l>Where my Lord is, my thoughts are fixed there,</l>
+                  <l>Yet flesh and blood their dissolution feare.</l>
+                  <l>To thee then I direct my sole request,</l>
+                  <l>In whom I put my trust, in whom I rest:</l>
+                  <l>Incline thine eare to a poore Womans crye,</l>
+                  <l>And be thou mine, whether I live or dye.</l>
+               </lg>
+               <lg>
+                  <l>The feare-surprized <hi>Childe,</hi> who sighs for shore,</l>
+                  <l>And ne're knew well what danger ment before;</l>
+                  <pb facs="tcp:177807:15"/>
+                  <l>Sends forth a shreeke or two, yet knowes not why,</l>
+                  <l>For 'las hee knowes not what it is to dye.</l>
+               </lg>
+               <lg>
+                  <l>O save me, Mother! when shall wee get home?</l>
+                  <l>I have desire that wee to land may come.</l>
+                  <l>I'l goe no more by Water, by your leave,</l>
+                  <l>Nor shall a Cock-boat e're your Boy receave.</l>
+                  <l>What meane these swelling bubbles that arise,</l>
+                  <l>And with their sprinklings wash mine head and eyes?</l>
+                  <l>I cannot tell, but they affright me sore,</l>
+                  <l>Get I to land, I'l trouble these no more.</l>
+                  <l>At Ducke and Drake I'd rather safely play,</l>
+                  <l>On our owne Poole upon the Holy-day.</l>
+                  <l>—Ay me! that last wave, Mother, washt my coat,</l>
+                  <l>An other such would throw me out o'th Boat.</l>
+                  <pb facs="tcp:177807:15"/>
+                  <l>Faine would I sleepe, but yet I cannot heere,</l>
+                  <l>Take any rest, I'm taken so with feare.</l>
+                  <l>—Oh save me, Mother! thus her Lambkin cride;</l>
+                  <l>And she with teare-swolne eyes againe replide.</l>
+                  <l>Feare nothing, Childe: Heaven shield us from mishap;</l>
+                  <l>Sleepe prety Ape, I'l shroud thee with my lap.</l>
+                  <l>'Twixt <hi>feare</hi> and <hi>love</hi> such mutuall conflicts bee,</l>
+                  <l>The waves rocke her, she him upon her knee.</l>
+               </lg>
+               <lg>
+                  <l>Weigh these surprized soules w<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o rightly can,</l>
+                  <l>And shares not in these miseries of man</l>
+                  <l>With joynt compassion? wdo can eye this Shelfe</l>
+                  <l>Of danger, and reflect not on himselfe?</l>
+               </lg>
+               <lg>
+                  <l>Of the whole substance of our Marchandize,<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>
+                  </l>
+                  <l>One onely Pearle's of unvalued prize:</l>
+                  <pb facs="tcp:177807:16"/>
+                  <l>Which got, wee gaine; which lost, it is in vaine</l>
+                  <l>To have possest the <hi>Indies</hi> for our gaine.</l>
+               </lg>
+               <lg>
+                  <l>Let's then contemplate Him, where wee may rest,</l>
+                  <l>For all things else are <hi>losse,</hi> hows 'ere possest.</l>
+                  <l>If wee have wealth, perchance, wee have not health;</l>
+                  <l>If wee have health, perhaps, wee have not wealth;</l>
+                  <l>If health and wealth, yet friendship may be scant;</l>
+                  <l>If health, wealth, friendship, wee may honour want;</l>
+                  <l>If health, wealth, honour wee injoyers be,</l>
+                  <l>Yet what are these, if wee want libertie?</l>
+                  <l>But God is all in one, for it is hee</l>
+                  <l>Who with a girdle bounds the surging Sea:</l>
+                  <l>Nought may oppose his Empire, whose command</l>
+                  <l>Reacheth from Sea to Sea, from Land to Land.</l>
+                  <pb facs="tcp:177807:16"/>
+                  <l>Some Marchants for Silkes, Sables, golden Oare,</l>
+                  <l>Dive in the depths, before they vent a shore;</l>
+                  <l>But wee runne no such hazard: for wee seaze</l>
+                  <l>On Him, who in Him seazeth wholy these.</l>
+               </lg>
+               <lg>
+                  <l>Draw in thy sailes, my <hi>Muse;</hi> and muse on <hi>Him,</hi>
+                  </l>
+                  <l>Who free from staine, assoiles our soules from sin.</l>
+                  <l>Who, when the <hi>Waters</hi> compasse us halfe dead,<note place="margin">Jonah. 2.5.6.</note>
+                  </l>
+                  <l>The <hi>Depths</hi> enclose us, <hi>weedes</hi> enwrappe our head;</l>
+                  <l>When wee to th' <hi>bottome</hi> of the <hi>mountaines</hi> go,</l>
+                  <l>And th' <hi>Earth</hi> with <hi>barres</hi> immures our bodies too;</l>
+                  <l>Yet from the <hi>Pit</hi> will <hi>Hee</hi> our <hi>Spirits</hi> raise,</l>
+                  <l>To whom bee still the sacrifice of Praise.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="sonnet">
+               <pb facs="tcp:177807:17"/>
+               <head>SONNET.</head>
+               <l>
+                  <seg rend="decorInit">W</seg>HAT is this <hi>WORLD,</hi> but a <hi>Sea,</hi>
+               </l>
+               <l>Or <hi>Flood-gate</hi> of Calamitie?</l>
+               <l>What <hi>LIFE,</hi> but a continued <hi>Wave,</hi>
+               </l>
+               <l>That wafts Man o're unto his <hi>Grave?</hi>
+               </l>
+               <l>What bee these <hi>Billowes</hi> swolne with winde,</l>
+               <l>But <hi>Passions</hi> of a troubled minde?</l>
+               <l>What bee these <hi>Windes</hi> that beate our Barke,</l>
+               <l>Sinnes that confin'd <hi>NOAH</hi> to his Arke.</l>
+               <l>What be these <hi>Sands</hi> on which wee runne,</l>
+               <l>These <hi>Shelves</hi> wee seeke, but seldome shunne;</l>
+               <pb facs="tcp:177807:17"/>
+               <l>But <hi>uncoth Paths,</hi> where Mortalls finde</l>
+               <l>
+                  <hi>Gravell</hi> to satisfie their minde?</l>
+               <l>What bee these <hi>Straits</hi> by which wee passe,</l>
+               <l>But <hi>thoughts</hi> of what Man <hi>is</hi> and <hi>was?</hi>
+               </l>
+               <l>What be these <hi>Barkes</hi> wherein wee goe,</l>
+               <l>But <hi>Bodies</hi> ballaced with woe?</l>
+               <l>What is this <hi>Port</hi> where wee arrive,</l>
+               <l>But <hi>Death,</hi> which wee would faine reprive?</l>
+               <l>Since <hi>Life</hi>'s <hi>Sea, Wave, Winde, Billow, Sand, Shelve, Straite,</hi>
+               </l>
+               <l>Let <hi>Earth</hi> be our <hi>Retraite, Heav'n</hi> our <hi>Reccite.</hi>
+               </l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
